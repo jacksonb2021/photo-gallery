@@ -1,0 +1,23 @@
+{
+  "name": "photo-gallery",
+  "version": "1.0.0",
+  "description": "A digital art gallery showcasing my favorite photo collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonb2021/photo-gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksonb2021/photo-gallery/issues"
+  },
+  "homepage": "https://github.com/jacksonb2021/photo-gallery#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
